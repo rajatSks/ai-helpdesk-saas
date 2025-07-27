@@ -1,0 +1,23 @@
+# ======================
+# Backend (Python/Django)
+# ======================
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.sqlite3
+backend/.env
+backend/venv/
+
+# ======================
+# Frontend (Node/Next.js)
+# ======================
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.vercel/
+
+# ======================
+# General
+# ======================
+.DS_Store
+.vscode/
+.env
